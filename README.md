@@ -1,10 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/fasteat)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/fasteat?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/fasteat?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/P_yKqjx35J4?style=social)](https://youtu.be/P_yKqjx35J4)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/d-r-e-a-n/fasteat)
+  ![GitHub stars](https://img.shields.io/github/stars/d-r-e-a-n/fasteat?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/d-r-e-a-n/fasteat?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/___drean?style=social)](https://twitter.com/intent/follow?screen_name=___drean)
 
   <br />
   <br />
@@ -13,7 +12,7 @@
 
   Fasteat is a fully responsive food delivery website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/fasteat/"><strong>➥ Live Demo</strong></a>
+  <a href="https://d-r-e-a-n.github.io/fasteat/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +35,18 @@ To run **Fasteat** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/fasteat.git
+sudo git clone https://github.com/d-r-e-a-n/fasteat.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/fasteat.git
+git clone https://github.com/d-r-e-a-n/fasteat.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linktree](https://linktr.ee/_drean).
 
 ### License
 
